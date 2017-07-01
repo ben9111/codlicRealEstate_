@@ -1,2 +1,2 @@
 # codlicRealEstate_
-![screen2](http://imgur.com/a/igUJM)
+![screen2](http://i.imgur.com/uQlf8rz.png)
