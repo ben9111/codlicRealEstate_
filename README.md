@@ -7,7 +7,7 @@ The new apartment will pop up on the map for other users can see and view it. an
 other users can offer if they Intersted in rent/buy it or just contact the owner.
 
 database used: Firebase(cloud) and SQLite(relational database)
-used GOOGLE API for location <br>
+used GOOGLE API for location
 The code is private. 
 
 ![screen1](http://i.imgur.com/uQlf8rz.png) ""  ![screen4](http://i.imgur.com/16dcNlE.png)
